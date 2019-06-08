@@ -10,7 +10,7 @@ import aiohttp
 import io
 
 client = discord.Client()
-token = "NTYxNTk5MDY2NzE5NTE4NzQw.XPqZpQ.kSsM5A67nv6KVndYv6iDfmaVl7k"
+token = "Ur token here"
 
 @client.event
 async def on_ready():
