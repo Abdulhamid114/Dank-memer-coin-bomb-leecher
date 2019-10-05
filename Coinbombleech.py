@@ -1,12 +1,10 @@
 import discord
-from discord import Webhook, AsyncWebhookAdapter
+from random import randint
+from time import sleep
 from discord import ext
 from discord.ext import commands
 import asyncio
 import sys
-import requests
-import aiohttp
-import io
 
 client = discord.Client()
 token = "Your discord token here"
