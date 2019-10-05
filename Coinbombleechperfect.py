@@ -21,7 +21,7 @@ async def on_message(message):
         date = datetime.datetime.now()
         if randint(1,3) == 3:
             print ("[Collected] Found a coin bomb at " + str(date.hour) + "h" + str(date.minute))
-            time = "0." + str(randint(3000,7500))
+            time = "0." + str(randint(5000,15000))
             sleep(float(time))
             await message.channel.send("i want money")
         else:
