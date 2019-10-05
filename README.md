@@ -22,7 +22,7 @@ It reply instantly so it's obvious you're boting, i got muted in the Dank memer 
 
 The v2, it reply "i want money" whenever someone says "pls use coin", "pls use bomb" or "pls use coinbomb"
 
-It reply with a random delay from 500ms to 3500ms (easilly changeable in the script)
+It reply with a random delay from 500ms to 3000ms (easilly changeable in the script)
 
 
 
@@ -30,7 +30,7 @@ It reply with a random delay from 500ms to 3500ms (easilly changeable in the scr
 
 The v3, it reply "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're boting
 
-It reply with a random delay from 3500ms to 7500ms (easilly changeable in the script)
+It reply with a random delay from 750ms to 3000ms (easilly changeable in the script)
 
 
 
@@ -38,4 +38,4 @@ It reply with a random delay from 3500ms to 7500ms (easilly changeable in the sc
 
 The v4, it have a 1/3 chance of replying "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're boting and you won't even reply to all of them so you seem human
 
-It reply with a random delay from 5000ms to 15000ms (easilly changeable in the script)
+It reply with a random delay from 1000ms to 5000ms (easilly changeable in the script)
