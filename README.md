@@ -30,7 +30,7 @@ It reply with a random delay from 500ms to 3500ms (easilly changeable in the scr
 
 The v3, it reply "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're boting
 
-It reply with a random delay from 3000ms to 7500ms (easilly changeable in the script)
+It reply with a random delay from 2000ms to 5000ms (easilly changeable in the script)
 
 
 
