@@ -5,9 +5,6 @@ from discord import ext
 from discord.ext import commands
 import asyncio
 import sys
-import requests
-import aiohttp
-import io
 
 client = discord.Client()
 token = "Ur token here"
