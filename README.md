@@ -14,7 +14,7 @@ There is multiple version of this script, with multiple level of safeties:
 
 The original script, it reply "i want money" whenever someone says "pls use coin", "pls use bomb" or "pls use coinbomb"
 
-It reply instantly so it's obvious you're boting, i got muted in the Dank memer server because i used it
+It reply instantly so it's obvious you're botting, i got muted in the Dank memer server because i used it
 
 
 
@@ -28,7 +28,7 @@ It reply with a random delay from 500ms to 3000ms (easilly changeable in the scr
 
 **Coinbombleechsafe.py** (should be safe)
 
-The v3, it reply "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're boting
+The v3, it reply "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're botting
 
 It reply with a random delay from 750ms to 3000ms (easilly changeable in the script)
 
@@ -36,6 +36,6 @@ It reply with a random delay from 750ms to 3000ms (easilly changeable in the scr
 
 **Coinbombleechperfect.py** (if you get spotted idk what to tell you it's safe af)
 
-The v4, it have a 1/3 chance of replying "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're boting and you won't even reply to all of them so you seem human
+The v4, it have a 1/3 chance of replying "i want money" whenever the bot says someone used a coinbomb, so people can't just say pls use coin a lot to prove you're botting and you won't even reply to all of them so you seem human
 
 It reply with a random delay from 1000ms to 5000ms (easilly changeable in the script)
