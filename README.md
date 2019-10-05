@@ -1,5 +1,5 @@
 # Dank-memer-coin-leecher
-(Some script may be missing because i didn't finsih programing them or i just don't have them on my main pc)
+(I really recomend using Coinbombleechsafe.py as Coinbombleechperfect.py is just overkill)
 
 You want them sweet sweet meme coins? well you came to the right place
 
