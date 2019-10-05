@@ -19,8 +19,9 @@ async def on_ready():
 async def on_message(message):
     if (message.content.lower() == "pls use bomb") or (message.content.lower() == "pls use coinbomb") or (message.content.lower() == "pls use coin"):
         print ("Found a coin bomb from "+ str(message.author))
-        time = "0." + str(randint(500,3500))
-        sleep(float(time))
+        time = str(randint(500,3000))
+        timefinal = str(time[0]) + "." + str(time[0:])
+        sleep(float(timefinal))
         await message.channel.send("i want money")
 
 client.run(token, bot=False)
