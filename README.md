@@ -1,8 +1,11 @@
 # Dank-memer-coin-leecher
 (I really recomend using Coinbombleechsafe.py as Coinbombleechperfect.py is just overkill)
-important note, it should now reply with whatever is highligted in the message sent by dank memer and not "i want money" since they seem to change it every once in a while
 
 You want them sweet sweet meme coins? well you came to the right place
+
+
+important note, it should now reply with whatever is highligted in the message sent by dank memer and not "i want money" since they seem to change it every once in a while
+
 
 For this script to be effective, you need to go to a place with a lot of coin bombs (like this server for exemple: https://discord.gg/Wejhbd4 )
 
